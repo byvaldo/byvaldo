@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.valdo-mexico" name="byvaldo" version="1.1.0" provider-name="byvaldo">
+	<extension point="xbmc.addon.repository" name="byvaldo">
+		<info compressed="false">https://raw.github.com/byvaldo/byvaldo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/byvaldo/mibyvaldo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/byvaldo/byvaldo/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>byvaldo</summary>
+   		<description lang="en">Instala los Addons de Kodi Mexico.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
